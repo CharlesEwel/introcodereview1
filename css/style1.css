@@ -1,8 +1,16 @@
-.jumbotron{
+.home{
   text-align: center;
   margin-bottom: 0px;
   background-image: url("../images/discgolfarm.png");
   background-position: 0% 25%;
   background-size: cover;
-  color: red;
+  color: black;
+  text-shadow: 2px 2px #0000FF;
+}
+
+img.rightfloat {
+  float: right;
+  border: 5px solid #0000FF;
+  padding: 5px;
+  margin: 5px;
 }
